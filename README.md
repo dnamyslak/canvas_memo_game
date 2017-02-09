@@ -1,6 +1,6 @@
 # Project Name
 
-Memory Game for Deloitte
+Memory Game
 
 ## Live demo
 
