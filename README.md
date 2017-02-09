@@ -1,6 +1,6 @@
 # Project Name
 
-Memory Game
+Memory Game on Canvas using Paper.js
 
 ## Live demo
 
