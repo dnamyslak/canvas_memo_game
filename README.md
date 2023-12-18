@@ -5,7 +5,7 @@ Memory Game on Canvas using Paper.js
 ## Live demo
 
 
-http://dnamyslak.pl/_projects/memory/
+https://www.dnamyslak.eu/_projects/memory/
 
 
 
